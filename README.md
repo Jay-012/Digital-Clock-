@@ -36,7 +36,7 @@ A stylish digital clock that displays the current time and date dynamically. The
 
 ## Screenshots
 
-_(Add screenshots of the clock interface if needed)_
+![image alt](https://github.com/Jay-012/Digital-Clock-/blob/8c1a7542a8866a452f1b5e6be7509d33f0c7d3f4/Screenshot%202025-03-14%20190239.png)
 
 ## Author
 
